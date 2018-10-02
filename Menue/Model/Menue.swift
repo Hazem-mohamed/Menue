@@ -8,6 +8,7 @@
 
 import Foundation
 // Hello 9:23 OCT 2
+// PUSH TO GITHUB
 struct Menue: Decodable {
     
     let message: String
