@@ -7,8 +7,7 @@
 //
 
 import Foundation
-//Hello
-//HELOOOOOOOOOOO OCT 2 9:16
+
 struct Menue: Decodable {
     
     let message: String
